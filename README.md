@@ -42,6 +42,7 @@ Fullstack-разработчик · React · NestJS · TypeScript · PostgreSQL
 | Проект | Описание | Стек | Demo |
 |--------|----------|------|------|
 | **SpectreBoost** | Коммерческий сервис игровых услуг. Платежи (YooKassa), шифрованный чат (AES-256-GCM), RBAC, event-driven заказы. Репозиторий приватный | React, NestJS, TS, Prisma, PostgreSQL | [Live](https://spectre-boost.vercel.app/) |
+| **Swift** | Современная CRM-платформа с канбан-доской, real-time синхронизацией и аналитикой. | NextJS, NestJS, TS, Prisma, Redis, PostgreSQL, WebSocket |  |
 
 > По запросу готов провести демонстрацию кода и архитектуры проекта
 
